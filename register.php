@@ -39,7 +39,7 @@
         </tr>
         <tr>
           <td><label for="emailAlerts">Send me email notifications</label></td>
-          <tr><input type="checkbox" id="emailAlerts" name="emailAlerts" checked></td>
+          <td><input type="checkbox" id="emailAlerts" name="emailAlerts" checked></td>
           <td><span id="feedback-email-alerts">Get notified of messages, tags, hot posts and more</span></td>
         </tr>
         <tr>
