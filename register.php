@@ -16,7 +16,7 @@
     </script>
   </head>
   <body>
-    <from action="createAccount.php" onchange="validate(this)">
+    <form action="createAccount.php" onchange="validate(this)">
       <table>
         <tr>
           <td><label for="user">Username</label></td>
@@ -38,9 +38,34 @@
           <td><span id="feedback-pass">Passwords do not match.</span></td>
         </tr>
         <tr>
+          <td><label for="emailAlerts">Send me email notifications</label></td>
+          <tr><input type="checkbox" id="emailAlerts" name="emailAlerts" checked></tr>
+          <td><span id="feedback-email-alerts">Get notified of messages, tags, hot posts and more</span></td>
+        </tr>
+        <tr>
+          <td><label for="coder">Make me a coder!</label></td>
+          <td><input type="chekcbox" id="coder" name="coder"></td>
+          <td><span id="feedback-coder">Get set up to contribute to our CrystalSocial repo</span></td>
+        </tr>
+        <tr>
+          <td><label for="designer">Make me a designer!</label></td>
+          <td><input type="checkbox" id="designer" name="designer"></td>
+          <td><span id="feedback-designer">Help us with the UX aspects of the CrystalSocial project</span></td>
+        </tr>
+        <tr>
+          <td><label for="contentCreator">Make me a content creator!</label></td>
+          <td><input type="checkbox" id="contentCreator" name="contentCreator"></td>
+          <td><span id="feedback-content-creator">Content Creators add posts to keep the community enganged</span></td>
+        </tr>
+        <tr>
+          <td><label for="wikiCreator">Make me a CrystalWiki creator!</label></td>
+          <td><input type="checkbox" id="wikiCreator" name="wikiCreator"></td>
+          <td><span id="feedback-wiki-creator">Contribute to the ever-expanding knowledge</span></td>
+        </tr>
+        <tr>
           <td><input type="submit" id="submit" value="Submit"></td>
         </tr>
       </table>
-    </from>
+    </form>
   </body>
 </html>
