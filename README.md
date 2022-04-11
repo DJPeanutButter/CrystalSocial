@@ -7,20 +7,21 @@
   - [x] YAML FILE
   - [x] Link Server to update when repo is updated (Manual Pull)
 - [ ] Registration
-  - [ ] Display Name
+  - [x] Display Name
     - [ ] Check for existing
-  - [ ] eMail
+  - [x] eMail
     - [ ] Check for existing
-  - [ ] Password
-  - [ ] Options
-    - [ ] Get email alerts?
+  - [x] Password
+  - [x] Options
+    - [x] Get email alerts?
       - [ ] What kind?
         - [ ] TODO: Define kinds
-    - [ ] Recruitment
-      - [ ] Coders
-      - [ ] Designers
-      - [ ] Content Creators
-      - [ ] Wiki Workers!
+    - [x] Recruitment
+      - [x] Coders
+      - [x] Designers
+      - [x] Content Creators
+      - [x] Wiki Workers!
+  - [ ] Email verification
 - [ ] Login
 - [ ] Friends
   - [ ] Messaging
