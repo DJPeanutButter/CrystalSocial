@@ -16,7 +16,7 @@
     </script>
   </head>
   <body>
-    <form action="createAccount.php" onchange="validate(this)">
+    <form action="createAccount.php" onchange="validate(this)" onload="validate(this)">
       <table>
         <tr>
           <td><label for="user">Username</label></td>
