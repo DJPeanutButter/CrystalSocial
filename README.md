@@ -2,11 +2,6 @@
  A social media focused on crystal healing
 
 ## TODO
-- [ ] Recruitment
-  - [ ] Coders
-  - [ ] Designers
-  - [ ] Content Creators
-  - [ ] Wiki Workers!
 - [ ] Deployment
   - [ ] Git on server
   - [ ] YAML FILE
@@ -21,7 +16,11 @@
     - [ ] Get email alerts?
       - [ ] What kind?
         - [ ] TODO: Define kinds
-    - [ ] Would you like to work on the Wiki?
+    - [ ] Recruitment
+      - [ ] Coders
+      - [ ] Designers
+      - [ ] Content Creators
+      - [ ] Wiki Workers!
 - [ ] Login
 - [ ] Friends
   - [ ] Messaging
