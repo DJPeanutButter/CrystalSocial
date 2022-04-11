@@ -5,8 +5,14 @@
     <link rel="stylesheet" href="styles.css">
     <script src="script.js"></script>
     <script>
-      let arrUsers  = <?/*Stuff*/?>;
-      let arrEmails = <?/*Stuff*/?>;
+      let arrUsers  = <?/*
+                         * TODO: query DB for usernames and return as json array
+                         * https://github.com/DJPeanutButter/CrystalSocial/issues/1
+                         */?>;
+      let arrEmails = <?/*
+                         * TODO: query DB for emails and return as json array
+                         * https://github.com/DJPeanutButter/CrystalSocial/issues/1
+                         */?>;
     </script>
   </head>
   <body>
