@@ -6,5 +6,7 @@
     <script src="script.js"></script>
   </head>
   <body>
+    <from action="createAccount.php" onchange="validate(this)">
+    </from>
   </body>
 </html>
