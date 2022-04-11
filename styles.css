@@ -1,3 +1,7 @@
 [id^="feedback-"]{
   display: none;
 }
+
+td:first-child{
+  text-align: right;
+}
