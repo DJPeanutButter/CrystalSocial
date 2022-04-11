@@ -3,8 +3,8 @@ function validate(objCaller){
   // Compare email to emails in DB
   // Compare pass/conf values
   
-  let user = document.getElementById("user");
-  let email = document.getElementById("email");
+  let user = document.getElementById("user").value;
+  let email = document.getElementById("email").value;
   
   for (let i=0;i<arrUsers.length;++i)
     if (arrUsers[i]===user)
