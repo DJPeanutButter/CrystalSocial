@@ -60,7 +60,7 @@
         <tr>
           <td><label for="wikiCreator">Make me a CrystalWiki creator!</label></td>
           <td><input type="checkbox" id="wikiCreator" name="wikiCreator"></td>
-          <td><span id="feedback-wiki-creator">Contribute to the ever-expanding knowledge</span></td>
+          <td><span id="feedback-wiki-creator">Contribute to the ever-expanding knowledge base</span></td>
         </tr>
         <tr>
           <td><input type="submit" id="submit" value="Submit"></td>
