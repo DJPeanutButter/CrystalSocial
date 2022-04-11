@@ -4,6 +4,10 @@
     <title>Register</title>
     <link rel="stylesheet" href="styles.css">
     <script src="script.js"></script>
+    <script>
+      let arrUsers  = <?/*Stuff*/?>;
+      let arrEmails = <?/*Stuff*/?>;
+    </script>
   </head>
   <body>
     <from action="createAccount.php" onchange="validate(this)">
