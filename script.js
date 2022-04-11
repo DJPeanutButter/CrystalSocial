@@ -21,7 +21,7 @@ function validate(objCaller){
     }
   }
   
-  if (document.getElementById("pass").value === document.getElementById("conf").value)
+  if (document.getElementById("pass").value !== document.getElementById("conf").value)
     document.getElementById("feedback-pass").style.display = "inline";
   
   return true;
