@@ -7,6 +7,7 @@
   </head>
   <body>
     <from action="createAccount.php" onchange="validate(this)">
+      <input type="text" name="user" id="user">
     </from>
   </body>
 </html>
