@@ -26,7 +26,7 @@
         <tr>
           <td><label for="email">Email</label></td>
           <td><input type="email" name="email" id="email"></td>
-          <td><span id="feedback-email">eMail has previously been used.</span></td>
+          <td><span id="feedback-email">Email has previously been used.</span></td>
         </tr>
         <tr>
           <td><label for="pass">Password</label></td>
