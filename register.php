@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Register</title>
-    <link rel="stylesheet" src="styles.css">
+    <link rel="stylesheet" href="styles.css">
     <script src="script.js"></script>
   </head>
   <body>
