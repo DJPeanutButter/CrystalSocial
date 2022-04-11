@@ -44,7 +44,7 @@
         </tr>
         <tr>
           <td><label for="coder">Make me a coder!</label></td>
-          <td><input type="chekcbox" id="coder" name="coder"></td>
+          <td><input type="checkbox" id="coder" name="coder"></td>
           <td><span id="feedback-coder">Get set up to contribute to our CrystalSocial repo</span></td>
         </tr>
         <tr>
