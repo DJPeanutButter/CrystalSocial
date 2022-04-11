@@ -8,11 +8,11 @@
       let arrUsers  = <?/*
                          * TODO: query DB for usernames and return as json array
                          * https://github.com/DJPeanutButter/CrystalSocial/issues/1
-                         */?>;
+                         */?>["Jonny", "JawKnee"]; // for debugging
       let arrEmails = <?/*
                          * TODO: query DB for emails and return as json array
                          * https://github.com/DJPeanutButter/CrystalSocial/issues/1
-                         */?>;
+                         */?>["abc@def.com","asd@fgh.jkl"]; // for debugging
     </script>
   </head>
   <body>
