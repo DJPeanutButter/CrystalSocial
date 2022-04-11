@@ -2,10 +2,10 @@
  A social media focused on crystal healing
 
 ## TODO
-- [ ] Deployment
-  - [ ] Git on server
-  - [ ] YAML FILE
-  - [ ] Link Server to update when repo is updated (Manual Pull)
+- [x] Deployment
+  - [x] Git on server
+  - [x] YAML FILE
+  - [x] Link Server to update when repo is updated (Manual Pull)
 - [ ] Registration
   - [ ] Display Name
     - [ ] Check for existing
