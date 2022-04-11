@@ -15,8 +15,8 @@
                          */?>["abc@def.com","asd@fgh.jkl"]; // for debugging
     </script>
   </head>
-  <body>
-    <form action="createAccount.php" onchange="validate(this)" onload="validate(this)">
+  <body onload="validate(0)">
+    <form action="createAccount.php" onchange="validate(this)">
       <table>
         <tr>
           <td><label for="user">Username</label></td>
