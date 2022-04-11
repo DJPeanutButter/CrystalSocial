@@ -6,7 +6,9 @@ function validate(objCaller){
   let user = document.getElementById("user");
   let email = document.getElementById("email");
   
-  arrUsers.forEach(x => if(x===user.value) console.log("!"));
+  for (let i=0;i<arrUsers.length;++i)
+    if (arrUsers[i]===user)
+      console.log("Match");
   
   return true;
 }
